@@ -4,7 +4,7 @@ f = open("input/day1/input.txt", "r")
 for x in f:
     entries.append(x.rstrip('\n'))
 
-print("Calculating calories")
+print("Calculating calories...")
 
 calories = []
 i = 0

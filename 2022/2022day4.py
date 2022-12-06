@@ -1,4 +1,3 @@
-import re
 entries = []
 i, j, k = 0, 0, 0
 
